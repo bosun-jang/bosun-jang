@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @bosun-jang
+- 👋 Hi, I’m @bosun-jang an embedded software developer. 🍔
+- 🎨 I have been developing Linux🐧 based firmware and applications. 🙆‍♀️
 - 👀 I’m interested in embedded development systems. (Actually, I want to try various developments.)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📖✍ I am interested in new technologies⚙ and I am always learning. 
 
 <!---
 bosun-jang/bosun-jang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
